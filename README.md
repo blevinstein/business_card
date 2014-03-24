@@ -7,6 +7,7 @@ Commands
 --------
 
 git clone git@github.com:blevinstein/business_card.git
+
 cd business_card
+
 cat me.txt
-ls
